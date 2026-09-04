@@ -5,10 +5,10 @@
 
 ### Information Systems Student
 
-<a href="https://adefa-razka-rauhillah.vercel.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio">
+<a href="https://adefa-razka-rauhillah.vercel.app/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAcGRvZgJleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAacXt6GewgiP-83gqVbryYnbSna8qCF7PU2u0dmFyRSMcNrT5HcYY89R3qIHfw_aem_dgbxbScjuNzYGpYG9HtvHg">
   <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-1f6feb?style=for-the-badge&logo=todoist&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/adefa-razka-rauhillah-7736b23b1">
+<a href="https://www.linkedin.com/in/adefa-razka-rauhillah-7736b23b1?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -63,18 +63,18 @@ I'm currently exploring **Web Development, Algorithm Design, Video & Photo Editi
 </td>
 <td valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adrazr&show_icons=true&hide_title=true&hide_border=true&layout=compact&theme=default" width="300"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rauhillahadefa794-debug&show_icons=true&hide_title=true&hide_border=true&layout=compact&theme=default" width="300"/>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrazr&hide_border=true&theme=default" width="80%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rauhillahadefa794-debug&hide_border=true&theme=default" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrazr&hide_border=true&theme=github-compact" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rauhillahadefa794-debug&hide_border=true&theme=github-compact" width="100%"/>
 </p>
 
 ---
@@ -85,21 +85,21 @@ I'm currently exploring **Web Development, Algorithm Design, Video & Photo Editi
   <a href="mailto:raauhillahadefa794@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-CONTACT-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/adrazr">
+  <a href="https://github.com/rauhillahadefa794-debug">
     <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/adefa-razka-rauhillah-7736b23b1">
+  <a href="https://www.linkedin.com/in/adefa-razka-rauhillah-7736b23b1?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 <p align="center">
-  <a href="https://www.instagram.com/adrazr_/">
+  <a href="https://www.instagram.com/adrazr_?igsi=MXBqYWRhMWkycmFzYg%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adrazr&label=Profile+Views&color=1f6feb&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rauhillahadefa794-debug&label=Profile+Views&color=1f6feb&style=flat" />
 </p>
 
 <p align="center"><i>Learning, building, and figuring things out one project at a time.</i></p>
